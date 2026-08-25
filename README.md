@@ -28,6 +28,7 @@ Currently working through **Cyber Security 101**, focusing on networking, Linux,
 
 - Cisco Introduction to Cybersecurity
 - Cisco Network Defense
+- Google Cybersecurity Professional Certificate
 
 ## Goal
 
